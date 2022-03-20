@@ -1,0 +1,18 @@
+[patient: A, systolic level: 75, diastolic level: 150]
+Initial Systolic level of n/a is 0
+Initial Diastolic level of n/a is 0
+Blood pressure level of Lily is 150/10 mmHg
+Result of testing high systolic is: true
+Result of testing low systolic is: false
+Result of testing high diastolic is: false
+Result of testing low diastolic is: true
+Testing 140/90 mmHg blood pressure: 
+blood pressure level of Jane is normal
+John has random blood pressure level of 198/119 mmHg
+John has high blood pressure
+[patient: B, systolic level: 85, diastolic level: 150]
+[patient: C, systolic level: 90, diastolic level: 100]
+[patient: D, systolic level: 100, diastolic level: 120]
+Patient Group: Unnamed group, Bloodpressure Record: []
+Patient Group: Unnamed group, Bloodpressure Record: [[patient: A, systolic level: 75, diastolic level: 150], [patient: B, systolic level: 85, diastolic level: 150], [patient: C, systolic level: 90, diastolic level: 100], [patient: D, systolic level: 100, diastolic level: 120]]
+Patient Group: Unnamed group, Bloodpressure Record: [[patient: B, systolic level: 85, diastolic level: 150], [patient: C, systolic level: 90, diastolic level: 100], [patient: D, systolic level: 100, diastolic level: 120]]
